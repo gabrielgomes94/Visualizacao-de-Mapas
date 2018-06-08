@@ -1,0 +1,61 @@
+.display-none{
+	display: none;
+}
+.form-login{
+	margin-right: 4px;
+	margin-left: 4px;
+	width: 80%;
+	color: white;
+}
+.register-card{
+	width: 512px;
+	margin: auto;
+}
+.margin-auto{
+	margin: auto;
+}
+.align-center{
+	text-align: center;
+}
+.map-link{
+	text-decoration: none;
+}
+.legenda-mapa{
+	display: none;
+
+	background-color: white;
+	
+	width: 250px;
+	border: 1px solid black;
+
+	position: absolute;
+	right: 5px;
+	top: 50px;
+	padding: 12px; 
+}
+.legenda-mapa--titulo{
+	text-align: center;
+	margin: 0px;
+}
+.legenda-mapa--elemento{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	display: inline-flex;
+	border-bottom: 1px solid #ddd;
+	width: 100%;
+}
+.legenda-mapa--icone{
+	
+}
+.box{
+	min-width:20px;
+	max-width:20px;
+	height:20px;
+	position: relative;
+}
+.legenda-mapa--rotulo{
+	margin: 0px;
+	padding-left: 10px;
+	padding-right: 10px; 
+	font-size: 14px;
+}
